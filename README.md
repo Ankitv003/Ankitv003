@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  MERN stack.<br>👯 I’m looking to collaborate on the projects in MERN stack.<br>🤝 I know Python and some of  it's frameworks, AWS .<br>💞️I’m interested in learning new technologies and using them efficiently.<br>👨‍💻I'm looking for a frontend/ full-stack role , so i can further increase my skills.<br>📫 Reach me at ankitv78389@gmail.com<br>
+🔭 I’m currently learning React and trying to contribute more to open source.<br>👯 I’m looking to collaborate on the projects in React.<br>🤝 I know Python and some of  it's frameworks, AWS .<br>💞️I’m interested in learning new technologies and using them efficiently.<br>👨‍💻I'm looking for a frontend/ full-stack role , so i can further increase my skills.<br>📫 Reach me at ankitv78389@gmail.com<br>
 
 
 ## 🌐 Socials:
