@@ -13,7 +13,7 @@
 [![An image of @ankitv003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitv003)](https://holopin.io/@ankitv003)
 
 # 📊 GitHub Stats:
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ankitv003?cardType=level&theme=vision-friendly-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitv003&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitv003&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
